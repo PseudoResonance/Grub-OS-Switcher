@@ -1,0 +1,2 @@
+ # /dev/nvme0n1p6 - Boot Config
+UUID=<FAT32 PARTITION UUID>		<FAT32 PARTITION MOUNT>	vfat		rw,users,umask=000 0 0
